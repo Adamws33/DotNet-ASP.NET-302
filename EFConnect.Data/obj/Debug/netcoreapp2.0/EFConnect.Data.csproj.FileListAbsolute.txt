@@ -1,0 +1,9 @@
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\bin\Debug\netcoreapp2.0\EFConnect.Data.deps.json
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\bin\Debug\netcoreapp2.0\EFConnect.Data.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\bin\Debug\netcoreapp2.0\EFConnect.Data.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.csprojAssemblyReference.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.csproj.CoreCompileInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.AssemblyInfoInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.AssemblyInfo.cs
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.0\EFConnect.Data.pdb

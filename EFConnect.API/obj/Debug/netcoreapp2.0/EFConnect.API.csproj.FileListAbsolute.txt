@@ -9,3 +9,12 @@ D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConne
 D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.AssemblyInfo.cs
 D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.dll
 D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Contracts.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Data.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Models.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Services.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Data.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Models.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Contracts.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.Services.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.csproj.CopyComplete

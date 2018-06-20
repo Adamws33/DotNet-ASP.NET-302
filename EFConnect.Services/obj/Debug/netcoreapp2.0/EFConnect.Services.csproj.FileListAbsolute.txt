@@ -1,0 +1,16 @@
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Services.deps.json
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Services.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Services.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Contracts.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Data.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Models.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Data.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Models.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.0\EFConnect.Contracts.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.csprojAssemblyReference.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.csproj.CoreCompileInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.AssemblyInfoInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.AssemblyInfo.cs
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.csproj.CopyComplete
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.0\EFConnect.Services.pdb

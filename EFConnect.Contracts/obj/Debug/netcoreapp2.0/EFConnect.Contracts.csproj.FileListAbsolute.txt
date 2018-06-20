@@ -1,0 +1,14 @@
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Contracts.deps.json
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Contracts.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Contracts.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Data.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Models.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Data.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\bin\Debug\netcoreapp2.0\EFConnect.Models.pdb
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.csprojAssemblyReference.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.csproj.CoreCompileInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.AssemblyInfoInputs.cache
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.AssemblyInfo.cs
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.csproj.CopyComplete
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.dll
+D:\adamSchool\DotNet-302\EFConnect\EFConnect.Contracts\obj\Debug\netcoreapp2.0\EFConnect.Contracts.pdb
